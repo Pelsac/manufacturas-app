@@ -1,0 +1,11 @@
+{
+    "valorTotal": "400000",
+    "idProducto": "2345678956",
+    "precioProducto": "200000",
+    "cantidad": "2",
+    "fecha": "2021-09-11",
+    "idCliente": "123345",
+    "nombreCliente": "Juan",
+    "vendedor": "Pedro",
+    "estado":"En proceso"
+}

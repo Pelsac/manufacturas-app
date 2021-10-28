@@ -1,0 +1,8 @@
+{
+    "mongodb": {
+      "server": "cluster0.ixhre.mongodb.net",
+      "database": "myFirstDatabase?retryWrites=true&w=majority",
+      "user": "productos",
+      "password": "productos"
+    }
+  }
